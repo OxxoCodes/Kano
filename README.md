@@ -8,7 +8,9 @@ This is something I developed on my own in about a couple weeks, and it is my fi
 
 # USAGE
 Run Kano.exe and enter the name of the program you would like to run.
+All CHIP-8 programs must be located in the same direcctory as the main executable.
 
 # BUILD
 Visual Studio 2017 Community:    https://www.visualstudio.com/products/visual-studio-community-vs
+
 CMake:    http://www.cmake.org/cmake/resources/software.html
