@@ -1,6 +1,7 @@
 # Kano
 A CHIP-8 Emulator developed in C++.
-MegaChip and SuperChip operations and their corresponding software is currently not suppported.
+
+MegaChip and SuperChip operations and their corresponding software are currently not suppported.
 
 # USAGE
 ```Kano.exe [ROM]```
