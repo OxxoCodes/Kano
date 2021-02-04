@@ -6,7 +6,7 @@ MegaChip and SuperChip operations and their corresponding software are currently
 # USAGE
 ```Kano.exe [ROM]```
 
-All CHIP-8 programs must be located in the same direcctory as the main executable.
+All CHIP-8 programs must be located in the same directory as the main executable.
 
 # BUILD
 [Visual Studio](https://www.visualstudio.com/products/visual-studio-community-vs)
